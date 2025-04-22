@@ -1,0 +1,1 @@
+/Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/data_type/compound/target/debug/compound: /Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/data_type/compound/src/main.rs

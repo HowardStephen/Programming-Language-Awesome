@@ -1,0 +1,1 @@
+/Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/hello_cargo/target/debug/hello_cargo: /Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/hello_cargo/src/main.rs

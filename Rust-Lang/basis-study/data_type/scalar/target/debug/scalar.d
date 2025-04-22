@@ -1,0 +1,1 @@
+/Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/data_type/scalar/target/debug/scalar: /Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/data_type/scalar/src/main.rs

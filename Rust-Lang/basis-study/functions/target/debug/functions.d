@@ -1,0 +1,1 @@
+/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/functions/target/debug/functions: /home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/functions/src/main.rs

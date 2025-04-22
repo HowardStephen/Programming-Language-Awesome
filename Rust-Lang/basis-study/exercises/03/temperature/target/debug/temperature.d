@@ -1,0 +1,1 @@
+/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/exercises/03/temperature/target/debug/temperature: /home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/exercises/03/temperature/src/main.rs

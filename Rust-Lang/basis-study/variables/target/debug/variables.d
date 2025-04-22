@@ -1,0 +1,1 @@
+/Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/variables/target/debug/variables: /Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/variables/src/main.rs
