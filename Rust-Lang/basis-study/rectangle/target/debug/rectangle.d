@@ -1,0 +1,1 @@
+/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/rectangle/target/debug/rectangle: /home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/rectangle/src/main.rs

@@ -1,0 +1,5 @@
+/Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/hello_cargo/target/debug/deps/libhello_cargo-e302a534dd2ea05a.rmeta: src/main.rs
+
+/Users/henrystephen/OrbStack/ubuntu/home/henrystephen/study/Programming-Language-Awesome/Rust-Lang/basis-study/hello_cargo/target/debug/deps/hello_cargo-e302a534dd2ea05a.d: src/main.rs
+
+src/main.rs:
